@@ -1,0 +1,16 @@
+Las comunidades que desarrollan sus propias herramientas tecnológicas
+fortalecen su autonomía y capacidad de resolver problemas locales,
+El uso de tecnologías abiertas como Node.js 
+facilita el acceso al conocimiento sin depender de software propietario
+permitiendo que más personas aprendan,
+colaboren y mejoren las soluciones de manera conjunta;
+estas iniciativas fomentan la innovación
+adaptada a las necesidades reales de la comunidad.También reducen costos, 
+lo que hace posible que proyectos con pocos recursos puedan crecer,fortaleciendo el trabajo colaborativo y 
+fomentando la participación ciudadana y el sentido de pertenencia.
+
+Las tecnologías abiertas promueven la 
+transparencia, ya que cualquier persona puede revisar y mejorar el código impulsando
+la formación de habilidades digitales y el desarrollo de talento local.
+Dando como resultado, que las comunidades se vuelvan más
+independientes y preparadas para enfrentar nuevos desafíos.
